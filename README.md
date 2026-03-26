@@ -125,8 +125,8 @@ http://localhost:3001
 
 ```json
 {
-  "nome": "Notebook",
-  "preco": 3500,
+  "nome": "Notebook Acer Nitro 5",
+  "preco": 3900,
   "stock": 10,
   "description": "Notebook gamer",
   "enabled": true
